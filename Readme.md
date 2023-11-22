@@ -1,5 +1,6 @@
 # Ranile Residences
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A sleek and inviting platform that elegantly presents the property's amenities and pricing, enticing visitors to learn more and take the next steps towards making it their home.
+![image](https://github.com/jojiShiotsuki/ranileResidences/assets/149657863/b6ecb688-9add-4c78-8630-42ce57ef276b)
 
 **Link to project:** https://ranileresidences.netlify.app/
 
@@ -7,22 +8,15 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** HTML, CSS, JavaScript, HTML5 UP
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This is an apartment-focused website created using a template from HTML5UP. The website showcases the apartment services, providing information about the units, amenities, and the prices.
 
 ## Optimizations
 *(optional)*
 
-When i improve this project , i would make a seperate page where a customer can see if the unit is available for rent, the costs for it and all the details needed. 
+When I improve this project, I will make a separate page where a customer can see if the unit is available for rent, the costs for it, and all the details needed. 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+User-Centric Design: Prioritize a user-friendly experience by simplifying navigation and ensuring clear calls to action.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+Analytics-Driven Decisions: Utilize analytics tools early on to gather insights into user behavior, shaping informed design choices and content strategies.
