@@ -12,7 +12,6 @@ assets/img/screenshot.png
 This is an apartment-focused website created using a template from HTML5UP. The website showcases the apartment services, providing information about the units, amenities, and the prices.
 
 ## Optimizations
-*(optional)*
 
 When I improve this project, I will make a separate page where a customer can see if the unit is available for rent, the costs for it, and all the details needed. 
 
