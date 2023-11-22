@@ -1,6 +1,7 @@
 # Ranile Residences
 A sleek and inviting platform that elegantly presents the property's amenities and pricing, enticing visitors to learn more and take the next steps towards making it their home.
-![image](https://github.com/jojiShiotsuki/ranileResidences/assets/149657863/b6ecb688-9add-4c78-8630-42ce57ef276b)
+
+assets/img/screenshot.png
 
 **Link to project:** https://ranileresidences.netlify.app/
 
