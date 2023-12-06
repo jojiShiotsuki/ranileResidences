@@ -14,6 +14,7 @@ This is an apartment-focused website created using a template from HTML5UP. The 
 ## Optimizations
 
 When I improve this project, I will make a separate page where a customer can see if the unit is available for rent, the costs for it, and all the details needed. 
+also will add a reservation system for a tour.
 
 ## Lessons Learned:
 
